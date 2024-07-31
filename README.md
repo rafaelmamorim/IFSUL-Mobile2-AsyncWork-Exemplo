@@ -16,5 +16,5 @@ Instituto Federal Sul Riograndense (IFSul), [Campus Santana do Livramento](http:
 - Não precisa persistir após as reinicializações do app ou do dispositivo.
 - Ocorre fora da linha de execução principal ou bloqueia a linha de execução principal.
 - Exemplo: 
- - Atualização de feed de conteúdo
- - Timer
+ -- Atualização de feed de conteúdo
+ -- Timer
